@@ -1,4 +1,5 @@
-### Hello World, I'm Kenny Roger, be very welcome 👋
+### Ola! , Eu sou Kenny Roger, Dev front-end.
+### Seja bem vindo! 👋
 
 
 - 👨🏻‍💻 Desenvolvedor front-end ;
