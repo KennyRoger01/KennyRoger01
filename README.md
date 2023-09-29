@@ -1,7 +1,7 @@
 ### Hello World, I'm Kenny Roger, be very welcome 👋
 
 
-- 🔭 Hoje trabalho com front-end ;
+- 👨🏻‍💻 Desenvolvedor front-end ;
 - 🌱 Estudando atualmente ReactJS/NextJS ;
 - 👨🏼‍🎓 Formação : Análise e Desenvolvimento de Sistemas ;
 - 📫 Contate-me no email: rogerkenny880@gmail.com ;
