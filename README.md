@@ -1,4 +1,4 @@
-### Ola! , Eu sou Kenny Roger, Dev front-end.
+### Hello World ! , I'm Kenny Roger, dev front-end👨🏻‍💻
 ### Seja bem vindo! 👋
 
 
@@ -30,4 +30,3 @@
 <a href = "#"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation]("https://github.com/KennyRoger01/KennyRoger01/blob/output/github-contribution-grid-snake2.svg")
