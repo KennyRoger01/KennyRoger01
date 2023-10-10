@@ -3,7 +3,7 @@
 
 
 - 👨🏻‍💻 Desenvolvedor front-end ;
-- 🌱 Estudando atualmente ReactJS/NextJS ;
+- 🌱 Estudando atualmente React Native ;
 - 👨🏼‍🎓 Formação : Análise e Desenvolvimento de Sistemas ;
 - 📫 Contate-me no email: rogerkenny880@gmail.com ;
 ##
